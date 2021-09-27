@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.todos{
+  background-color: aquamarine;
+  padding: 1px;
+  margin: 10px;
+  position: relative
+}
+.deleteBtn{
+
+  padding: 10px;
+  margin: 5px;
+
+}
+.editbtn{
+  color: cornflowerblue;
+  
+}
+.delEdit{
+  position: absolute;
+  
+  float: right;
+  right:20px;
+  top:30px
+ 
+}
